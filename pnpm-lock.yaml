@@ -87,8 +87,8 @@ dependencies:
     specifier: ^0.17.0
     version: 0.17.0(react-dom@18.2.0)(react@18.2.0)
   react-cookie:
-    specifier: ^6.0.0
-    version: 6.0.0(react@18.2.0)
+    specifier: ^5.0.0
+    version: 5.0.0(react@18.2.0)
   react-copy-to-clipboard:
     specifier: ^5.0.3
     version: 5.1.0(react@18.2.0)
@@ -709,9 +709,8 @@ packages:
       tailwindcss: 3.2.4(postcss@8.4.21)
     dev: false
 
-  /@types/cookie@0.5.1:
-    resolution: {integrity: sha512-COUnqfB2+ckwXXSFInsFdOAWQzCCx+a5hq2ruyj+Vjund94RJQd4LG2u9hnvJrTgunKAaax7ancBYlDrNYxA0g==}
-    dev: false
+  /@types/cookie@0.3.3:
+    resolution: {integrity: sha512-LKVP3cgXBT9RYj+t+9FDKwS5tdI+rPBXaNSkma7hvqy35lc7mAokC2zsqWJH0LaqIt3B962nuYI77hsJoT1gow==}
 
   /@types/cors@2.8.13:
     resolution: {integrity: sha512-RG8AStHlUiV5ysZQKq97copd2UmVYw3/pRMLefISZ3S1hK104Cwm7iLQ3fTKx+lsUH2CE8FlLaYeEA2LSeqYUA==}
